@@ -1,0 +1,1 @@
+//!route || !route.anonymous || route.name === "home"
